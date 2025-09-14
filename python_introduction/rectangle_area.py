@@ -7,6 +7,6 @@ width = 5
 
 #step 2: use the formula (Area = length * width).
 
-area = (length * width)
+area = length * width
 
 print(f"The area of the rectangle is: {area}")
